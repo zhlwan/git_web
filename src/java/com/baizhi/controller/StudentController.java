@@ -6,7 +6,6 @@ package com.baizhi.controller;
 public class StudentController {
 
     public static void main(String[] args) {
-        System.out.println("honglei的分支代码");
 
 
     }
